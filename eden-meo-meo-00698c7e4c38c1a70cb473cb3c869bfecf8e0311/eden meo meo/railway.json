@@ -1,0 +1,6 @@
+{
+  "$schema": "https://railway.com/railway.json",
+  "deploy": {
+    "startCommand": "python eden.py"
+  }
+}
