@@ -1,1 +1,8 @@
 
+os
+colorama
+sys
+asyncio
+discord
+dotenv
+wavelink
